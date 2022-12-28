@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Biology and computer science</title>
+    <link>https://xavierzheng.github.io/tags/</link>
+    <description>Recent content in Tags on Biology and computer science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 28 Dec 2022 11:51:48 +0800</lastBuildDate><atom:link href="https://xavierzheng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GO</title>
+      <link>https://xavierzheng.github.io/tags/go/</link>
+      <pubDate>Wed, 28 Dec 2022 11:51:48 +0800</pubDate>
+      
+      <guid>https://xavierzheng.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
