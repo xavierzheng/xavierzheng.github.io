@@ -17,24 +17,16 @@
       <pubDate>Wed, 28 Dec 2022 18:02:56 +0800</pubDate>
       
       <guid>https://xavierzheng.github.io/posts/%E7%94%A8hugo%E5%92%8Cgithub%E8%A3%BD%E4%BD%9C%E9%9D%9C%E6%85%8B%E7%B6%B2%E7%AB%99/</guid>
-      <description>用HUGO和github製作靜態網站 動態網站雖然互動性極高，但很多時候網頁只是單純拿來乘載資訊，沒那麼多互動性其實也沒關係。這裡簡單介紹可以用markdown格式，直接利用HUGO製作成網頁，再利用github免費託管網頁的方法
-安裝HUGO MAC用戶直接用brew install。這裡介紹linux，以及透過windows subsystem linux 2 (WSL2)的安裝方法，尤其windows用戶，WSL2真的是好東西啊。
-簡單說，參考原廠說明 Linux |Hugo (gohugo.io) ，有兩種安裝方法，分別是簡易版、與純手工安裝版
-簡易版 sudo apt install hugo 純手工安裝 pre-required: GCC 記得要有gcc，不太挑版本，Ubuntu預設的就可以。但WSL2的Ubuntu通常沒有，所以需先更新apt，再自己裝:
-# 更新apt sudo apt update # 裝gcc sudo apt install build-essential pre-required: GO 手動裝的方法: 下載、解壓縮、把路徑加入.bashrc、在.bashrc設定 GOPATH 與 GOBIN ，這樣才知道透過GO 裝的東西會裝去哪裡 (未來透過 GO 安裝的執行檔就在 GOBIN 的位置)
-# 下載 wget https://go.dev/dl/go1.19.4.linux-amd64.tar.gz # 解壓縮 tar zxvf go1.19.4.linux-amd64.tar.gz # 修改.bashrc cd vim .bashrc # 把路徑加入.bashrc PATH=${PATH}:/home/XXXXXXXX/software/GO/1.19.4/bin # add GOPATH and GOBIN PATH to .</description>
+      <description>簡單介紹如何用HUGO和GITHUB製作靜態網站</description>
     </item>
     
     <item>
-      <title>Tips GO</title>
+      <title>Tips for GO analysis</title>
       <link>https://xavierzheng.github.io/posts/tips-go/</link>
       <pubDate>Wed, 28 Dec 2022 11:51:48 +0800</pubDate>
       
       <guid>https://xavierzheng.github.io/posts/tips-go/</guid>
-      <description>GO注意事項 Ref: Nine quick tips for pathway enrichment analysis, 2022 PLOS computation biology, https://doi.org/10.1371/journal.pcbi.1010348
-Tip 1: Before starting, clarify which analysis you would like to perform What analysis type Pathway enrichment analysis (PEA) does not give clues about the active or inhibited status of the pathways. More appropriately, PEA provides information about how genes help carry out pathways.
-overrepresentation analysis (ORA) focus of ORA methods is the gene set
-ORA outputs all pathways enriched in the query gene list as a whole, and mainly uses a nonranked list</description>
+      <description>Guideline for GO and GSEA analysis</description>
     </item>
     
   </channel>
