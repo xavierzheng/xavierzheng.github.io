@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xavierzheng.github.io/posts/maize-network/</loc>
+    <lastmod>2022-12-31T08:00:32+08:00</lastmod>
+  </url><url>
     <loc>https://xavierzheng.github.io/</loc>
-    <lastmod>2022-12-30T23:43:38+08:00</lastmod>
+    <lastmod>2022-12-31T08:00:32+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/tags/network/</loc>
+    <lastmod>2022-12-31T08:00:32+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/tags/paper/</loc>
+    <lastmod>2022-12-31T08:00:32+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/posts/</loc>
+    <lastmod>2022-12-31T08:00:32+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/tags/</loc>
+    <lastmod>2022-12-31T08:00:32+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/posts/epigenetic-clocks-aging-cancer/</loc>
+    <lastmod>2022-12-31T07:25:53+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/tags/methylation/</loc>
+    <lastmod>2022-12-31T07:25:53+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/tags/te/</loc>
+    <lastmod>2022-12-31T07:25:53+08:00</lastmod>
   </url><url>
     <loc>https://xavierzheng.github.io/posts/hugo_config/</loc>
     <lastmod>2022-12-30T23:43:38+08:00</lastmod>
   </url><url>
     <loc>https://xavierzheng.github.io/tags/info/</loc>
-    <lastmod>2022-12-30T23:43:38+08:00</lastmod>
-  </url><url>
-    <loc>https://xavierzheng.github.io/posts/</loc>
-    <lastmod>2022-12-30T23:43:38+08:00</lastmod>
-  </url><url>
-    <loc>https://xavierzheng.github.io/tags/</loc>
     <lastmod>2022-12-30T23:43:38+08:00</lastmod>
   </url><url>
     <loc>https://xavierzheng.github.io/tags/visual/</loc>
