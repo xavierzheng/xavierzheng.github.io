@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 31 Dec 2022 08:00:32 +0800</lastBuildDate><atom:link href="https://xavierzheng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 21:08:58 +0800</lastBuildDate><atom:link href="https://xavierzheng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The mutation rate as an evolving trait</title>
+      <link>https://xavierzheng.github.io/posts/mutation_rate_evolving_trait/</link>
+      <pubDate>Sat, 31 Dec 2022 21:08:58 +0800</pubDate>
+      
+      <guid>https://xavierzheng.github.io/posts/mutation_rate_evolving_trait/</guid>
+      <description>突變率本身就是演化的特徵</description>
+    </item>
+    
+    <item>
+      <title>Navigating bottlenecks and trade-offs in genomic data analysis</title>
+      <link>https://xavierzheng.github.io/posts/bottleneck_in_genomics/</link>
+      <pubDate>Sat, 31 Dec 2022 20:52:30 +0800</pubDate>
+      
+      <guid>https://xavierzheng.github.io/posts/bottleneck_in_genomics/</guid>
+      <description>本文探討目前基因體資料分析裏，可能存在的瓶頸與解決方法</description>
+    </item>
+    
     <item>
       <title>A multi-omics integrative network map of maize</title>
       <link>https://xavierzheng.github.io/posts/maize-network/</link>

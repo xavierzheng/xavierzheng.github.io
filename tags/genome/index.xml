@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>genome on Biology and computer science</title>
+    <link>https://xavierzheng.github.io/tags/genome/</link>
+    <description>Recent content in genome on Biology and computer science</description>
+    <image>
+      <url>https://xavierzheng.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xavierzheng.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 31 Dec 2022 20:52:30 +0800</lastBuildDate><atom:link href="https://xavierzheng.github.io/tags/genome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating bottlenecks and trade-offs in genomic data analysis</title>
+      <link>https://xavierzheng.github.io/posts/bottleneck_in_genomics/</link>
+      <pubDate>Sat, 31 Dec 2022 20:52:30 +0800</pubDate>
+      
+      <guid>https://xavierzheng.github.io/posts/bottleneck_in_genomics/</guid>
+      <description>本文探討目前基因體資料分析裏，可能存在的瓶頸與解決方法</description>
+    </item>
+    
+  </channel>
+</rss>

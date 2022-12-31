@@ -2,22 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xavierzheng.github.io/</loc>
+    <lastmod>2022-12-31T21:08:58+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/tags/evolution/</loc>
+    <lastmod>2022-12-31T21:08:58+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/tags/mutation/</loc>
+    <lastmod>2022-12-31T21:08:58+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/tags/paper/</loc>
+    <lastmod>2022-12-31T21:08:58+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/posts/</loc>
+    <lastmod>2022-12-31T21:08:58+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/tags/</loc>
+    <lastmod>2022-12-31T21:08:58+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/posts/mutation_rate_evolving_trait/</loc>
+    <lastmod>2022-12-31T21:08:58+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/tags/genome/</loc>
+    <lastmod>2022-12-31T20:52:30+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/tags/info/</loc>
+    <lastmod>2022-12-31T20:52:30+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/posts/bottleneck_in_genomics/</loc>
+    <lastmod>2022-12-31T20:52:30+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierzheng.github.io/tags/ngs/</loc>
+    <lastmod>2022-12-31T20:52:30+08:00</lastmod>
+  </url><url>
     <loc>https://xavierzheng.github.io/posts/maize-network/</loc>
     <lastmod>2022-12-31T08:00:32+08:00</lastmod>
   </url><url>
-    <loc>https://xavierzheng.github.io/</loc>
-    <lastmod>2022-12-31T08:00:32+08:00</lastmod>
-  </url><url>
     <loc>https://xavierzheng.github.io/tags/network/</loc>
-    <lastmod>2022-12-31T08:00:32+08:00</lastmod>
-  </url><url>
-    <loc>https://xavierzheng.github.io/tags/paper/</loc>
-    <lastmod>2022-12-31T08:00:32+08:00</lastmod>
-  </url><url>
-    <loc>https://xavierzheng.github.io/posts/</loc>
-    <lastmod>2022-12-31T08:00:32+08:00</lastmod>
-  </url><url>
-    <loc>https://xavierzheng.github.io/tags/</loc>
     <lastmod>2022-12-31T08:00:32+08:00</lastmod>
   </url><url>
     <loc>https://xavierzheng.github.io/posts/epigenetic-clocks-aging-cancer/</loc>
@@ -30,9 +51,6 @@
     <lastmod>2022-12-31T07:25:53+08:00</lastmod>
   </url><url>
     <loc>https://xavierzheng.github.io/posts/hugo_config/</loc>
-    <lastmod>2022-12-30T23:43:38+08:00</lastmod>
-  </url><url>
-    <loc>https://xavierzheng.github.io/tags/info/</loc>
     <lastmod>2022-12-30T23:43:38+08:00</lastmod>
   </url><url>
     <loc>https://xavierzheng.github.io/tags/visual/</loc>
